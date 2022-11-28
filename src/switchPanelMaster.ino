@@ -88,8 +88,3 @@ void keyboardCommand(int data){
   delay(200);
   Keyboard.releaseAll();
 }
-
-
-
-
-
